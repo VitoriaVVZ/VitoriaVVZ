@@ -5,7 +5,7 @@
   
 - 👥 Pronouns: **You can use any pronoun with me, but the most commonly used is she/her.**
   
-- ⚡ Fun fact: **i love Pokemon and Sonic!! 🔴🦔**
+- ⚡ Fun fact: **i love Pokemon and Sonic! 🔴🦔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
