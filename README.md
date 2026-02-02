@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Livia Vitoria</h1>
 <h3 align="center">also known as Vitoria or Vick</h3>
 
-- 🌱 I’m currently learning **about java, HTML javascript, etc.**
+- 📚 I’m currently learning **about java, HTML javascript, etc.**
   
-- 😄 Pronouns: **You can use any pronoun with me, but the most commonly used is she/her.**
+- 👥 Pronouns: **You can use any pronoun with me, but the most commonly used is she/her.**
   
 - ⚡ Fun fact **i love Pokemon and Sonic!! 🔴🦔**
 
