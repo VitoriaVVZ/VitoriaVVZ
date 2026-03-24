@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Livia Vitoria</h1>
+<h1 align="center">Hi 🪷, I'm Livia Vitoria</h1>
 <h3 align="center">also known as Vitoria or Vick</h3>
 
 - 📚 I’m currently learning: **java, HTML, javascript, etc.**
