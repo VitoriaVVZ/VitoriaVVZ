@@ -12,20 +12,18 @@
 </div>
 
 ---
-
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaVVZ&cache_seconds=1800"/>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api?username=VitoriaVVZ&cache_seconds=1800"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaVVZ&layout=compact&langs_count=7&theme=radical"/>
+        <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaVVZ&layout=compact&langs_count=7&theme=radical"/>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
