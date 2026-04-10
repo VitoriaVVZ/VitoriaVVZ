@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **i love Pokemon and Sonic! 🔴🦔**
 
 <div align="center">
-  <img src="https://i.imgur.com/uJJGQQy.gif" width="500">
+  <img src="https://media1.tenor.com/m/9n9KcxS62UwAAAAd/odachina-atena.gif" width="500">
 </div>
 
 ---
