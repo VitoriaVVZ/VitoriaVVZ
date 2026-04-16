@@ -1,5 +1,5 @@
-<h1 align="center">Ola 🪷, eu sou a Livia Vitoria</h1>
-<h3 align="center">também conhecida como Vitoria ou Vick</h3>
+<h1 align="center">Ola 🪷, me chamo Livia Vitoria</h1>
+<h3 align="center">também sou conhecida como Vitoria ou apenas Vick</h3>
 
 <div align="center"> 
   
@@ -7,7 +7,7 @@
 
 👥 Pronomes: **Você pode usar qualquer pronome comigo, mas os mais comuns são ela/dela.**
 
-⚡ Curiosidade: **eu amo Pokémon e Sonic! 🔴🦔**
+⚡ Curiosidade: **eu amo Ninjago, Pokémon e Sonic! 🌪️🔴🦔**
   
 </div>
 
