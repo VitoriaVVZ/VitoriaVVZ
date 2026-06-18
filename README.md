@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tecnologias em Aprendizado</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,github" />
 </p>
