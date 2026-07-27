@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/iYOypqhLfToAAAAd/columbina-genshin-impact-columbina.gif" width="500">
+  <img src="https://media1.tenor.com/m/QQ15E8iw8FAAAAAC/mizisua-alien-stage.gif" width="500">
 </div>
 
 ---
