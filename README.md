@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QQ15E8iw8FAAAAAC/mizisua-alien-stage.gif" width="500">
+  <img src="https://media1.tenor.com/m/zJ9z3x_gjaQAAAAd/mizi-alien-stage-sua-alien-stage.gif" width="500">
 </div>
 
 ---
