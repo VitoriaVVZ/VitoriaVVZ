@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/2haq_EIFZAcAAAAC/tgswiiwagaa-ayakoga.gif" width="500">
+  <img src="https://media1.tenor.com/m/xjzw0eZ72hsAAAAC/mizisua-mizi-sua.gif" width="500">
 </div>
 
 ---
