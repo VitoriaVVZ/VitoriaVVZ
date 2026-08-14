@@ -6,7 +6,9 @@
 
 **Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 🤍**
 
----
+<div align="center">
+  <img src="https://media1.tenor.com/m/xjzw0eZ72hsAAAAC/mizisua-mizi-sua.gif" width="500">
+</div>
 
 </div>
 
@@ -18,9 +20,7 @@ Além de programação, também gosto de passar meu tempo com coisas que fazem p
 - 🐉 **Ninjago**
 - 📖 **Descobrir coisas novas e aprender no meu ritmo**
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/xjzw0eZ72hsAAAAC/mizisua-mizi-sua.gif" width="500">
-</div>
+
 
 ---
 
