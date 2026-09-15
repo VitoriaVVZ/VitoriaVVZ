@@ -7,7 +7,7 @@
 **Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 🤍**
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/xjzw0eZ72hsAAAAC/mizisua-mizi-sua.gif" width="500">
+  <img src="https://media1.tenor.com/m/O5sdc8w2z38AAAAC/uma-musume-umamusume-pretty-derby.gif" width="500">
 </div>
 
 </div>
