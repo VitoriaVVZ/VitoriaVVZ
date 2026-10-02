@@ -7,7 +7,7 @@
 **Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 🤍**
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/nNOLtxRjrbgAAAAC/oguri-cap-depressed.gif" width="500">
+  <img src="https://media1.tenor.com/m/MJ1O2aHIWwgAAAAC/genshin-impact-genshin.gif" width="500">
 </div>
 
 </div>
