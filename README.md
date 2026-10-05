@@ -1,4 +1,4 @@
-<h1 align="center">Apenas alguém que busca aprender mais, sempre 🌕</h1>
+<h1 align="center">Apenas alguém que busca aprender mais, sempre 🪽😴</h1>
 
 <h3 align="center">Me chamo Vitoria, mas podem me chamar de Vick!</h3>
 
@@ -6,21 +6,13 @@
 
 **Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 🤍**
 
+**Gosto de descobrir coisas novas e aprender no meu ritmo**
+
 <div align="center">
   <img src="https://media1.tenor.com/m/MJ1O2aHIWwgAAAAC/genshin-impact-genshin.gif" width="935">
 </div>
 
 </div>
-
-## 🪽😴 Um pouco sobre mim
-
-Além de programação, também gosto de passar meu tempo com coisas que fazem parte de mim:
-- 🦔 **Sonic**
-- ⚡ **Pokémon**
-- 🐉 **Ninjago**
-- 📖 **Descobrir coisas novas e aprender no meu ritmo**
-
-
 
 ---
 
