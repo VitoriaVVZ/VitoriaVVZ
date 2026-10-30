@@ -21,18 +21,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,github" />
 </p>
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=VitoriaVVZ&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitoriaVVZ&layout=donut" />
-    </td>
-  </tr>
-</table>
-</div>
+
 
 
 
