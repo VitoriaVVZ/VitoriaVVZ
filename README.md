@@ -20,8 +20,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,github" />
 </p>
-
-
+<div align="center">
+<table border="0" style="background-color: transparent;">
+  <tr>
+    <td>
+      <!-- Cores personalizadas para combinar com o Vaporeon -->
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=VitoriaVVZ&show_icons=true&title_color=1E3A8A&text_color=1E40AF&icon_color=3B82F6&bg_color=EFF6FF&hide_border=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitoriaVVZ&layout=donut&title_color=1E3A8A&text_color=1E40AF&bg_color=EFF6FF&hide_border=true" />
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
