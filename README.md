@@ -1,15 +1,15 @@
-<h1 align="center">Apenas alguém que busca aprender mais, sempre 🪽😴</h1>
+<h1 align="center">Apenas alguém que busca aprender mais, sempre🐈‍⬛</h1>
 
 <h3 align="center">Me chamo Vitoria, mas podem me chamar de Vick!</h3>
 
 <div align="center">
 
-**Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 🤍**
+**Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 💜**
 
 **Gosto de descobrir coisas novas e aprender no meu ritmo**
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/MJ1O2aHIWwgAAAAC/genshin-impact-genshin.gif" width="935">
+  <img src="https://media1.tenor.com/m/QeBeOtlnsb8AAAAC/madoka-magica-homura-akemi.gif" width="935">
 </div>
 
 </div>
@@ -24,7 +24,7 @@
 <table border="0" style="background-color: transparent;">
   <tr>
     <td>
-      <!-- Cores personalizadas para combinar com o Vaporeon -->
+      <!-- Cores personalizadas para combinar-->
       <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=VitoriaVVZ&show_icons=true&title_color=1E3A8A&text_color=1E40AF&icon_color=3B82F6&bg_color=EFF6FF&hide_border=true" />
     </td>
     <td>
