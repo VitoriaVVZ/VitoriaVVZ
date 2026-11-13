@@ -4,12 +4,12 @@
 
 <div align="center">
 
-**Ela/Dela - mas fique à vontade para usar qualquer pronome comigo 💜**
+**Ela/Dela - mas fique à vontade para usar qualquer pronome comigo💜**
 
-**Gosto de descobrir coisas novas e aprender no meu ritmo**
+**Gosto de descobrir coisas novas e aprender no meu ritmo⏳**
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/QeBeOtlnsb8AAAAC/madoka-magica-homura-akemi.gif" width="935">
+  <img src="https://media1.tenor.com/m/QeBeOtlnsb8AAAAC/madoka-magica-homura-akemi.gif" width="950">
 </div>
 
 </div>
