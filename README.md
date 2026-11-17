@@ -18,7 +18,7 @@
 
 <h3 align="center">Tecnologias em Aprendizado</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,linux,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,mysql,linux,github" />
 </p>
 <div align="center">
 <table border="0" style="background-color: transparent;">
@@ -33,8 +33,3 @@
   </tr>
 </table>
 </div>
-
-
-
-
-
